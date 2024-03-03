@@ -13,7 +13,7 @@ Python 動物族群預測
 <img width="379" alt="image" src="https://github.com/Lowen0909/Animal-Population-Prediction/assets/82707190/76fa602f-2c8e-4404-8a85-6508f7314941">
 
 ## 數學模型
-### 1.生殖預測:使用Leslie模型(P為動物數量、p_i為存活率、f_j為出生率)  
+### 1.生殖預測:使用Leslie模型(P為動物數量、Pi為存活率、fj為出生率)  
 <img width="470" alt="image" src="https://github.com/Lowen0909/Animal-Population-Prediction/assets/82707190/b58c0518-8aac-4a18-abd5-97db867181fe">  
 
 ### 2.遷徙預測:Markov模型
